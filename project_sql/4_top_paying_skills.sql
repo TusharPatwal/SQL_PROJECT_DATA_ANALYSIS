@@ -21,7 +21,7 @@ GROUP BY
     skills
 ORDER BY 
     avg_salary DESC
-LIMIT 25
+LIMIT 25;
 
 /*
 Here's a breakdown of the results for top paying skills for Data Analysts:
